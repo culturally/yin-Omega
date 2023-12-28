@@ -1,6 +1,6 @@
 # yin Omega
 
-Public Release which includes useful tools for Hacking, Cracking, OSINT
+Public Release which includes useful tools for Hacking, Cracking, OSINT.
 
 ## Overview
 
@@ -15,6 +15,7 @@ This project is developed in C# Winforms, leveraging the UI framework from [Skee
 
 
 ## Universal Tools
+![](https://github.com/culturally/yin-Omega/blob/main/images/yinomega.png)
 
 ### Discord Webhook
 - Spam Webhook
@@ -24,7 +25,7 @@ This project is developed in C# Winforms, leveraging the UI framework from [Skee
 - Send anonymous custom SMS to almost any number for FREE
 
 ## IP & Network
-
+![](https://github.com/culturally/yin-Omega/blob/main/images/ipxnetwork.png)
 ### Pinger
 - Basic pinger
 
@@ -38,7 +39,7 @@ This project is developed in C# Winforms, leveraging the UI framework from [Skee
 - Info about IP Address
 
 ## OSINT
-
+![](https://github.com/culturally/yin-Omega/blob/main/images/osint.png)
 ### Username Lookup
 - Very advanced username lookup similar to [sherlock](https://github.com/sherlock-project/sherlock)
 
@@ -52,7 +53,7 @@ This project is developed in C# Winforms, leveraging the UI framework from [Skee
 - Checks overall reputation of an email
 
 ## Cracking
-
+![](https://github.com/culturally/yin-Omega/blob/main/images/cracking.png)
 ### Combo Generator
 - Very advanced Combolist Generator(user:pass / email:pass), uses rockyou.txt
 
