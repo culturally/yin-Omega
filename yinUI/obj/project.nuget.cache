@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIOW0YY0GDMChL/iLPmpo5e0uUVzInpzmNGFcBHyE4vJkdWL7RgPtHvUu6AS3z+MG0DJ6oywtPVyymk6NavJJg==",
+  "success": true,
+  "projectFilePath": "D:\\yinUI\\yinUI\\yinOmega.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smaho\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512",
+    "C:\\Users\\smaho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\smaho\\.nuget\\packages\\sharpcompress\\0.35.0\\sharpcompress.0.35.0.nupkg.sha512",
+    "C:\\Users\\smaho\\.nuget\\packages\\zstdsharp.port\\0.7.4\\zstdsharp.port.0.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
