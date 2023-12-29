@@ -64,6 +64,7 @@ This project is developed in C# Winforms, leveraging the UI framework from [Skee
 
 - Run the exe
 - It is not framework dependant
+- In cracking you will have to add user.txt and email.txt(I added some in this repository)
 
 ## Key
 
